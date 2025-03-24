@@ -9,6 +9,6 @@
 
 | 💻 **Content**       | 📘 **Code Files** | 🔗 **Preview Link** |
 |----------------------|--------------|----------------|
-| 📦Amazon Clone  | [Code]( [PROJECT](https://github.com/himanshurana2/HTML-CSS-Projects/tree/da66f5bc76a735512c97e6cb3ac1e2b76a0f6d31/AMAZON%20PROJECT)) | [Overview](https://amazonnhim.netlify.app/) |
+| 📦Amazon Clone  | [Code](https://github.com/himanshurana2/HTML-CSS-Projects/tree/da66f5bc76a735512c97e6cb3ac1e2b76a0f6d31/AMAZON%20PROJECT) | [Overview](https://amazonnhim.netlify.app/) |
 
 ---
